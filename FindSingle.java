@@ -1,6 +1,6 @@
 package amazonmj;
 //Amazon 1.25 phone interview http://www.1point3acres.com/bbs/thread-167192-1-1.html (出处: 一亩三分地论坛)
-
+//改一下在提交
 public class FindSingle {
 	public static Integer findSingle(int[] arr) {
 		if (arr == null) return null;
